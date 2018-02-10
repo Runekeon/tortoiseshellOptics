@@ -1,0 +1,8 @@
+html {
+  font-size: 18px;
+  font-family: Helvetica;
+}
+
+.backgroundImage {
+  background-image: url("../images/glasses-bg.png");
+}
